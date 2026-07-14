@@ -14,9 +14,9 @@ export default function HomePage() {
   <div id="hero" data-section="hero">
     <SectionErrorBoundary name="hero">
           <HeroSplit
-      tag="Elevation Media  Media"
+      tag="Elevation Media"
       title="Establish Your Presence & Grow."
-      description="We build high-converting, beautiful websites that turn visitors into loyal customers. Let Elevation Media  Media take your online presence to new heights."
+      description="We build high-converting, beautiful websites that turn visitors into loyal customers. Let Elevation Media take your online presence to new heights."
       primaryButton={{
         text: "Start Growing",
         href: "#contact",
@@ -196,7 +196,7 @@ export default function HomePage() {
           imageSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg",
         },
         {
-          name: "Mark Stevens",
+          name: "Melissa Stevens",
           role: "Owner",
           company: "Stevens Fitness",
           rating: 5,
