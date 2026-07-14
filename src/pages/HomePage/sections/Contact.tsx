@@ -14,7 +14,7 @@ export default function ContactSection(): React.JSX.Element {
           text="Elevate your business today. Contact our team for a free consultation and let's discuss how we can help you grow."
           primaryButton={{
             text: "Schedule Consultation",
-            href: "#",
+            href: "#ContactSection",
           }}
           secondaryButton={{
             text: "Email Us",
