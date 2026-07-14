@@ -18,7 +18,7 @@ export default function ContactSection(): React.JSX.Element {
           }}
           secondaryButton={{
             text: "Email Us",
-            href: "mailto:hello@elevationmedia.com",
+            href: "mailto:elevatedbuisnesses@gmail.com",
           }}
           textAnimation="slide-up"
         />
