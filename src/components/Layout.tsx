@@ -20,10 +20,6 @@ export default function Layout() {
     "href": "#services"
   },
   {
-    "name": "Contact",
-    "href": "#contact"
-  },
-  {
     "name": "Hero",
     "href": "#hero"
   },
