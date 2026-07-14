@@ -14,9 +14,9 @@ export default function HomePage() {
   <div id="hero" data-section="hero">
     <SectionErrorBoundary name="hero">
           <HeroSplit
-      tag="Elevation Media"
+      tag="Elevation Media  Media"
       title="Establish Your Presence & Grow."
-      description="We build high-converting, beautiful websites that turn visitors into loyal customers. Let Elevation Media take your online presence to new heights."
+      description="We build high-converting, beautiful websites that turn visitors into loyal customers. Let Elevation Media  Media take your online presence to new heights."
       primaryButton={{
         text: "Start Growing",
         href: "#contact",
@@ -25,7 +25,7 @@ export default function HomePage() {
         text: "Our Services",
         href: "#services",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/digital-media-professional-works-with-isolated-copy-space-business-setup_482257-125048.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3GTaMoXuYSTqX2LVBuutSAbAz5R/tmp/a-premium-abstract-futuristic-mountain-l-1783998630458-840bb021.png"
       textAnimation="slide-up"
     />
     </SectionErrorBoundary>
@@ -62,7 +62,7 @@ export default function HomePage() {
   <div id="about" data-section="about">
     <SectionErrorBoundary name="about">
           <AboutMediaOverlay
-      tag="Why Elevation?"
+      tag="Why Elevation Media ?"
       title="We Help Local Businesses Thrive"
       description="From medical practices to law firms, we understand the nuances that make a website work for local businesses. We don't just build sites—we help businesses establish credibility, attract more customers, and generate more leads."
       primaryButton={{
@@ -172,7 +172,7 @@ export default function HomePage() {
           <TestimonialOverlayCards
       tag="Social Proof"
       title="Loved By Local Leaders"
-      description="See why business owners across various industries trust Elevation Media."
+      description="See why business owners across various industries trust Elevation Media  Media."
       testimonials={[
         {
           name: "Dr. Sarah Miller",
