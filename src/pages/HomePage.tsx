@@ -182,7 +182,7 @@ export default function HomePage() {
           imageSrc: "http://img.b2bpic.net/free-photo/doctor-with-medical-report_23-2148168362.jpg",
         },
         {
-          name: "James Henderson",
+          name: "James enderson",
           role: "Senior Partner",
           company: "Henderson Law",
           rating: 5,
@@ -227,7 +227,7 @@ export default function HomePage() {
           items: [
             {
               question: "How long does a website take to build?",
-              answer: "Typically 4-6 weeks depending on project scope.",
+              answer: "Typically 1-3 weeks depending on project scope.",
             },
             {
               question: "Do you handle maintenance?",
